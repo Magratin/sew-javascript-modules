@@ -2,7 +2,7 @@ SEW | ADV | JavaScript Modules
 
 ## User Story 1
 
-*As a web designer, I want to be able to convert different RGB color notations.*
+*As a web designer, I want to be able to convert different RGB color notations into one another.*
 
 ### Acceptance Criteria
 
@@ -17,6 +17,15 @@ SEW | ADV | JavaScript Modules
     Converts a hex value to a rgb() functional notation, either with number or percentage values.
 - A simple JS Script is available, which runs in a browser and tests the module functions.
 
+## User Story 2
+
+*As a web developer, I want to easily save a color and get different RGB color notations.*
+
+- A JS Module is available, which exports a JS Class as default. 
+  - The constructor accepts a color either in hex or in rgb() functional notation.
+  - The class has three methods which return the color as hex value, as rgb() with number values and as rgb() with percentage values.
+  - The class uses the helper functions of User Story 1.
+- A simple JS Script is available, which runs in a browser and tests the module.   
 
 #### Links
 
