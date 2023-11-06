@@ -15,7 +15,7 @@ SEW | ADV | JavaScript Modules
   
   - `hexToRgb(hex, isPercentage)`
     Converts a hex value to a rgb() functional notation, either with number or percentage values.
-- A simple JS Script is available, which runs in a browser and tests the module functions.
+- A simple JS Script is available, which tests the modules functions.
 
 ## User Story 2
 
@@ -25,7 +25,7 @@ SEW | ADV | JavaScript Modules
   - The constructor accepts a color either in hex or in rgb() functional notation.
   - The class has three methods which return the color as hex value, as rgb() with number values and as rgb() with percentage values.
   - The class uses the helper functions of User Story 1.
-- A simple JS Script is available, which runs in a browser and tests the module.   
+- A simple JS Script is available, which runs tests the module.   
 
 #### Links
 
