@@ -1,5 +1,3 @@
-SEW | ADV | JavaScript Modules
-
 ## User Story 1
 
 *As a web designer, I want to be able to convert different RGB color notations into one another.*
@@ -27,7 +25,7 @@ SEW | ADV | JavaScript Modules
   - The class uses the helper functions of User Story 1.
 - A simple JS Script is available, which runs tests the module.   
 
-#### Links
+#### Skill(s)
 
-- [MDN Guide - JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-- [CSS - RGB color model](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#rgb_color_model)
+- [JavaScript Modules](https://my.skilldisplay.eu/en/skill/2644/0)
+
