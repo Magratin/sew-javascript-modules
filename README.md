@@ -25,7 +25,7 @@
   - The class uses the helper functions of User Story 1.
 - A simple JS Script is available, which runs tests the module.   
 
-#### Skill(s)
+## Skill(s)
 
 - [JavaScript Modules](https://my.skilldisplay.eu/en/skill/2644/0)
 
