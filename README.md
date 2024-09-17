@@ -19,7 +19,7 @@
 
 *As a web developer, I want to easily save a color and get different RGB color notations.*
 
-- A JS Module is available, which exports a JS Class as default. 
+- A JS Module is available, which exports a JS Class as **default**. 
   - The constructor accepts a color either in hex or in rgb() functional notation.
   - The class has three methods which return the color as hex value, as rgb() with number values and as rgb() with percentage values.
   - The class uses the helper functions of User Story 1.
