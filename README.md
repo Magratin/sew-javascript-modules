@@ -23,9 +23,9 @@
 - The function is part of a JS Module and exported using a **default export**. 
 - A simple JS Script is available, which tests the function.   
 
---- old User Story 2 (for all of you, who have started working already)---
 
-## User Story 2
+
+## Previous User Story 2 (for all of you, who have started working already, otherwise you can implement the new User Story 2)
 
 *As a web developer, I want to easily save a color and get different RGB color notations.*
 
